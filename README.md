@@ -1,1 +1,1 @@
-Project AI/ML: [https://github.com/annamickova/TravelPriceAdvisor](url)
+Project AI/ML: https://github.com/annamickova/TravelPriceAdvisor
